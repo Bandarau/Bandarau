@@ -1,31 +1,54 @@
-<h1 align="center">Hi 👋, I'm Udara Sandaruwan</h1>
-<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+<h1 align="center">Hi, I'm Bandara 👋</h1>
+<h3 align="center">Software Engineering Undergraduate @ OUSL | Aspiring DevSecOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bandarau&label=Profile%20views&color=0e75b6&style=flat" alt="bandarau" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@udarasanda88403" target="blank"><img src="https://img.shields.io/twitter/follow/@udarasanda88403?logo=twitter&style=for-the-badge" alt="@udarasanda88403" /></a> </p>
-<hr>
-
-- 🔭 I’m currently working on **C and JavaScript**
-
-- 🌱 I’m currently learning **Java,Python,SQL,PHP,Javascript,React**
-
-- 🤝 I’m an undergraduate student at **The Open University Of Sri Lanka**
-
-- 📫 How to reach me **sandaruwanudara557@gmail.com**
-
-- ⚡ Fun fact **call me as Banda**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@udarasanda88403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@udarasanda88403" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/udara-sandaruwan-5476b72a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udara-sandaruwan-5476b72a1/" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/profile.php?id=100087896216914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100087896216914" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucameon2ejkts0pn5ln54hzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucameon2ejkts0pn5ln54hzg" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@sandaruwanudara557" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@sandaruwanudara557" height="30" width="40" /></a>
-<a href="https://discord.gg/_udara_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_udara_x" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
+- 🎓 3rd Year *BSc Software Engineering* undergraduate at *Open University of Sri Lanka*
+- 🔐 Passionate about *DevSecOps, Linux, and Cloud Security*
+- 🌱 Currently learning: *Docker, Kubernetes, AWS, Terraform & CI/CD with GitHub Actions*
+- 🐧 Daily driving *Kali Linux* to strengthen my Linux & Security fundamentals
+- 🎯 Goal: Land a *DevSecOps Internship* in 2027 and build secure, scalable systems
+- 💬 Ask me about: Bash Scripting, Linux, Git, Docker or Networking
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+*Languages:*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+*DevOps & Cloud:*  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+*Security & Tools:*  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+---
+
+### 📌 Pinned Projects
+Check out my pinned repositories below for my work on Linux automation, Dockerized apps, and CI/CD pipelines. Always building and learning in public.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bandarau&show_icons=true&theme=tokyonight&hide_border=true" alt="Bandarau's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bandarau&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+<p align="center">Thanks for visiting! Let's connect and build something secure together 🔒</p>
