@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bandara 👋</h1>
-<h3 align="center">Software Engineering Undergraduate @ OUSL | Aspiring DevSecOps Engineer</h3>
+<h3 align="center">Software Engineering student at Open University of Sri Lanka (OUSL), passionate about Quality Assurance, Test Automation, and DevOps practices.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/udara-sandaruwan-5476b72a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,14 +9,40 @@
 </p>
 
 ---
+## 🔭 Current Focus
+- 🧪 Learning Test Automation with Selenium & Python
+- 🐳 Exploring Docker & containerization
+- ☁️ Building foundation in AWS Cloud
+- 📚 Studying DevOps principles and CI/CD
 
-### 👨‍💻 About Me
-- 🎓 3rd Year *BSc Software Engineering* undergraduate at *Open University of Sri Lanka*
-- 🔐 Passionate about *DevSecOps, Linux, and Cloud Security*
-- 🌱 Currently learning: *Docker, Kubernetes, AWS, Terraform & CI/CD with GitHub Actions*
-- 🐧 Daily driving *Kali Linux* to strengthen my Linux & Security fundamentals
-- 🎯 Goal: Land a *DevSecOps Internship* in 2027 and build secure, scalable systems
-- 💬 Ask me about: Bash Scripting, Linux, Git, Docker or Networking
+## 🛠️ Skills & Technologies
+**Testing:**
+- Manual Testing & Test Case Design
+- API Testing (Postman)
+- Test Automation (Selenium, Python)
+- SQL for Testing
+
+**DevOps (Learning):**
+- Linux/Bash
+- Git & GitHub
+- Docker
+- CI/CD Basics
+
+**Programming:**
+- Python
+- SQL
+- Bash Scripting
+
+## 📂 Featured Projects
+- 🧪 [Test Automation Framework](link) - Selenium-based framework with Page Object Model
+- 🔌 [API Test Suite](link) - Comprehensive REST API testing collection
+- 📊 [QA Portfolio](link) - Test cases and bug reports
+
+## 🌱 Currently Learning
+- Container Orchestration with Kubernetes
+- Infrastructure as Code (Terraform)
+- AWS Cloud Services
+- CI/CD with Jenkins & GitLab
 
 ---
 
@@ -53,4 +79,4 @@ Check out my pinned repositories below for my work on Linux automation, Dockeriz
 </p>
 
 ---
-<p align="center">Thanks for visiting! Let's connect and build something secure together 🔒</p>
+<p align="center">💡 *"Quality is not an act, it is a habit" - Aristotle*</p>
